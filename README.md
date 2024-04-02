@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/andyglover" target="blank"><img src="https://img.shields.io/twitter/follow/andyglover?logo=twitter&style=for-the-badge" alt="andyglover" /></a> </p>
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+- 🌱 I’m currently learning **Blender**
 
 - 👨‍💻 Thanks for visiting [https://github.com/andyglover/](https://github.com/andyglover/)
 
