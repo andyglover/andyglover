@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!--old stuff
 <h1 align="center">Hi 👋, I'm Andy Glover</h1>
 <h3 align="center">A web developer from Seattle</h3>
-- 🌱 I’m currently learning ...**Javascript, MERN Stack** **Blender**
+- 🌱 I’m currently learning ...**Javascript, MERN Stack** **Blender** **Japanese**
 - 👨‍💻 All of my projects are available [https://github.com/andyglover/](https://github.com/andyglover/)
 - 📝 I regularly tweet on [https://twitter.com/andygloverdev](https://twitter.com/andygloverdev)
 - 📄 Know about my experiences [https://www.linkedin.com/in/andygloverdev/](https://www.linkedin.com/in/andygloverdev/)
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/andyglover" target="blank"><img src="https://img.shields.io/twitter/follow/andyglover?logo=twitter&style=for-the-badge" alt="andyglover" /></a> </p>
 
-- 🌱 I’m currently learning **Japanese**
+- 🌱 I’m currently learning **Flask**
 
 - 👨‍💻 Thanks for visiting [https://github.com/andyglover/](https://github.com/andyglover/)
 
