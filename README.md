@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/andyglover" target="blank"><img src="https://img.shields.io/twitter/follow/andyglover?logo=twitter&style=for-the-badge" alt="andyglover" /></a> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Powershell**
 
 - 👨‍💻 Thanks for visiting [https://github.com/andyglover/](https://github.com/andyglover/)
 
@@ -47,7 +47,5 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/andyglover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andygloverdev" height="30" width="40" /></a>
 
 </p>
-
-
 
 <!--https://rahuldkjain.github.io/gh-profile-readme-generator/ >
