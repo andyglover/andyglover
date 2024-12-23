@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+- 🌱 I’m currently learning ...
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -35,8 +36,6 @@ Here are some ideas to get you started:
 <h3 align="center">A nerd from Seattle</h3>
 
 <p align="left"> <a href="https://twitter.com/andyglover" target="blank"><img src="https://img.shields.io/twitter/follow/andyglover?logo=twitter&style=for-the-badge" alt="andyglover" /></a> </p>
-
-- 🌱 I’m currently learning **WSL**
 
 - 👨‍💻 Thanks for visiting [https://github.com/andyglover/](https://github.com/andyglover/)
 
